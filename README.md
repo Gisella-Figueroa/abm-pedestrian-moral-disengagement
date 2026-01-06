@@ -62,7 +62,7 @@ La descripción detallada del modelo sigue el protocolo estándar ODD (Overview,
 
 🤝 Contribución
 
-Este proyecto es parte del Grupo de Investigación en Sistemas Complejos de USIL. Las contribuciones son bienvenidas mediante Pull Requests.
+Este proyecto es parte del Grupo de Investigación PERUTECH de USIL de la carrera de Ingenieria Empresarial. Las contribuciones son bienvenidas mediante Pull Requests.
 
 📝 Cita
 
